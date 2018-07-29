@@ -16,4 +16,10 @@ During prediction, clear patches are predicted from patches of 32x32 at a time.
 
 ## Samples
 
-![alt text](https://raw.githubusercontent.com/SpoorthyBhat/Image_deblurring/blur_lenna.png)
+Fruits:
+
+![image1](https://user-images.githubusercontent.com/19797465/43366570-9a1e2ab0-935d-11e8-9f7c-1a89e7f61254.png)
+
+Lenna:
+
+![image2](https://user-images.githubusercontent.com/19797465/43366572-9b3c474c-935d-11e8-84bb-4900adc1c334.png)
